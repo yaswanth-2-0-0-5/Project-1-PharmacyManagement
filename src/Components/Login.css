@@ -1,0 +1,62 @@
+.form
+{
+  height: 300px;
+  width: 350px;
+  margin-top: 220px;
+}
+form
+{
+   background-color: rgb(231, 237, 236);
+   width:10cm;
+   height: 50vh;
+   margin-top: 14%;
+   border-radius: 25px;
+   text-transform: capitalize;
+   box-shadow: 5px 7px 7px 8px rgb(0, 0, 0.2,0.5);
+   margin-left: 50%;
+   margin-top: 100px;
+}
+input
+{
+  width: 300px;
+  height: 55px;
+  border-radius: 5px;
+  font-size: 20px;
+  padding-bottom: 5px;
+  margin-left: 10px;
+  border-radius:10px;
+}
+
+button:hover{
+  background-color: rgb(0, 0, 0);
+  color: rgb(8, 96, 172);
+}
+button{
+  width: 125px;
+  height: 40px;
+  border: none;
+  outline: none;
+  font-size: 20px;
+  color: black;
+  background-color:rgb(8, 172, 93);
+  font-size: 17px;
+  color: #fff;
+  padding-bottom: 5px; 
+  margin-left: 30px;
+  border-radius:10px;
+  border-radius: 50px;
+
+}
+.b:hover
+{
+  color: rgb(11, 203, 246);
+}
+.text-1{
+  padding: 10px;
+  font-size: 15px;
+}
+
+body{
+    background: url('https://img.freepik.com/free-vector/healthcare-medical-science-elegant_1419-2183.jpg') no-repeat fixed center center/cover;
+
+}

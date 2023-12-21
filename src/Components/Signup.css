@@ -1,0 +1,60 @@
+
+form
+{
+   background-color: rgb(231, 237, 236);
+   width:13cm;
+   height: 70vh;
+   margin-top: 10%;
+   border-radius: 20px;
+   text-transform: capitalize;
+   box-shadow: 5px 7px 7px 8px rgb(0, 0, 0,0.3);
+   margin-left: 8%;
+}
+.b{
+    margin-top: 1cm;
+}
+input
+{
+  width: 300px;
+  height: 30px;
+  border-radius: 9px;
+  font-size: 20px;
+  padding-bottom: 5px;
+  margin-left: 10px;
+  border-radius: 10px;
+}
+
+button:hover{
+  background-color: black;
+  color: rgb(8, 172, 93);
+}
+button{
+  width: 125px;
+  height: 40px;
+  border: none;
+  outline: none;
+  font-size: 20px;
+  color: black;
+  background-color:rgb(8, 172, 93);
+  font-size: 17px;
+  color: #fff;
+  padding-bottom: 5px; 
+  margin-left: 34px;
+  border-radius: 10px;
+  border-radius: 50px;
+
+}
+.b:hover
+{
+  color: rgb(8, 172, 93);
+}
+.text-1{
+  padding: 10px;
+  font-size: 15px;
+}
+
+
+body{
+    background: url('https://static.vecteezy.com/system/resources/previews/016/084/083/original/modern-blue-medical-wallpaper-futuristic-medical-icons-geometric-hexagon-shape-vector.jpg') no-repeat fixed center center/cover;
+
+}
